@@ -9,5 +9,5 @@ selenium
 config
 aiohttp
 asyncio
-pickle
+pickle4=0.0.1
 configparser
